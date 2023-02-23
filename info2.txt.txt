@@ -1,0 +1,3 @@
+Hello, my name is QueenGif.  My favorite color is ...  I am ___ years old.  I live in ___.
+
+Goodbye.
